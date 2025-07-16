@@ -26,9 +26,6 @@ Schematic            |  PCB
 
 Since I'm the goat, I got 0 errors after I did the DRC check. 😎
 
-## Firmware 
-
-
 ## BOM:
 Here is a list of everything you would need to build the MultiPad
 
